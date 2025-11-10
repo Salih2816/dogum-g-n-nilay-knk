@@ -156,3 +156,14 @@ h2 {
         transform: translateY(0);
     }
 }
+
+/* Piksel Köpek Resmi Stilleri */
+.piksel-kopek-resmi {
+    display: block;
+    /* Resmi blok element yap */
+    max-width: 170px;
+    /* Maksimum genişliği 100px'e düşürdük */
+    height: auto;
+    margin: 20px auto 5px auto;
+    /* Üstten ve alttan boşluk ver ve ortala */
+}
