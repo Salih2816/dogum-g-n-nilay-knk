@@ -161,13 +161,14 @@ h2 {
 .piksel-kopek-resmi {
     display: block;
     /* Resmi blok element yap */
-    max-width: 125px;
+    max-width: 170px;
     /* Maksimum genişliği 100px'e düşürdük */
     height: auto;
     margin: 20px auto 5px auto;
     /* Üstten ve alttan boşluk ver ve ortala */
 
 }
+
 
 
 
